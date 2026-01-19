@@ -1,4 +1,4 @@
-# Movie Recommendation System (EDA Based)
+# Movie Recommendation Analysis (EDA Based)
 
 This project focuses on analyzing movie data and building a basic movie recommendation approach using Exploratory Data Analysis (EDA).
 
